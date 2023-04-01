@@ -20,6 +20,11 @@ This project was created as my first serious pet project and as a way to have a 
 3. Use the `-delay` flag to specify the time (in seconds) before the program switches to the next video. The default setting is 10 seconds.
 4. Enjoy driving your neighbors crazy.
 
+or
+
+1. Download .exe
+2. Run on your PC (build for windows 10) 
+
 ## Disclaimer
 This program is intended for entertainment purposes only and should not be used to cause harm or disturb others. Please use this program responsibly.
 
