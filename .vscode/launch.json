@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LoveMyNeighbor",
+            "type": "go",
+            "request": "launch",
+            "program": "${fileDirname}",
+            "args": ["-delay", "20", "-list", "New Text Document.txt"],
+            "env": {}
+        }
+    ]
+}
